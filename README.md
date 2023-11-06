@@ -99,6 +99,9 @@ Below is a list of the saves available, with all items marked as (Japan) being u
 (Event - Eon Ticket.sav)  
   
 ### Regi Doll Decoration  
-(Decoration - Regi Doll Gift.sav)  
+(Decoration - Regi Doll Gift.sav) 
+
+###Bonus - Battle E Trainers Custom Set (X001-X002)
+
   
 For methods and tools for creating your custom e-Reader cards, please refer to the E-Reader Creation Folder. If you have your e-reader tools to contribute, you can send a Pull Request, and I will review and add them to this archive.
