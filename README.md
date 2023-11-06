@@ -1,4 +1,4 @@
-# PokemonR-S-Ecard-Saves
+# PokemonRS-Ecard-Saves
 This Repo aims to illuminate my current understanding of the Nintendo e-Reader, how dot codes are structured, and the process for creating custom cards. While this information is available in various forms elsewhere, I encountered challenges finding the specific details I sought. The goal here is to compile everything needed in one easily digestible format for individuals unfamiliar with the e-reader but curious about its functionality.
 
 I've also cataloged my work, encompassing all Official/Semi-Official e-Reader cards released and unreleased for the English version of Ruby and Sapphire. Notably, this collection includes promotional cards released solely in Japan. I've meticulously broken down these cards using the outlined methods, faithfully translated them to the best of my ability, and injected them into save files for use with English copies of the game. All save games are provided in both 64k and 128k formats.
@@ -99,6 +99,9 @@ Below is a list of the saves available, with all items marked as (Japan) being u
 (Event - Eon Ticket.sav)  
   
 ### Regi Doll Decoration  
-(Decoration - Regi Doll Gift.sav)  
+(Decoration - Regi Doll Gift.sav) 
+
+###Bonus - Battle E Trainers Custom Set (X001-X002)
+
   
 For methods and tools for creating your custom e-Reader cards, please refer to the E-Reader Creation Folder. If you have your e-reader tools to contribute, you can send a Pull Request, and I will review and add them to this archive.

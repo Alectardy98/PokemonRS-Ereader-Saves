@@ -67,3 +67,5 @@ Sources:
 - [Gameboy Advance Dev Docs](https://www.devrs.com/gba/docs.php#tutor)
 - [Event Research, Byte breakdown](https://projectpokemon.org/home/forums/topic/35903-gen-3-mystery-eventgift-research/)
 - [Detailed breakdown of .etc, .ecb file structure](https://archives.glitchcity.info/forums/board-76/thread-7114/page-0.html)
+
+The tools listed here are NOT my own, and I do not intend to caim as such, I do not know copyright law and if I am in any violation please let me know, I do not intend to harm or steal the work of another person
